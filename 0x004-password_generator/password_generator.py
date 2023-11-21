@@ -19,13 +19,13 @@ except Exception:
 
 password = []
 
-for letter in range(0, letters):
+for letter in range(letters):
     password += random.choice(alphabets)
 
-for number in range(0, numbers):
+for number in range(numbers):
     password += random.choice(digits)
 
-for symbol in range(0, symbols):
+for symbol in range(symbols):
     password += random.choice(syms)
 
 random.shuffle(password)
