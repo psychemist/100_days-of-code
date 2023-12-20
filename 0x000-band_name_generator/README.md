@@ -19,7 +19,8 @@ python3 band_name_generator.py
 ```
 
 5. Follow the prompts to enter the city you grew up in and the name of your first pet.  
-The script will then combine the city and pet names to generate a unique band name and display it to you.  
+The script will then combine the city and pet names to generate a unique band name and display it to you.
+
 Example: 
 ```
 $ What city did you grow up in?
