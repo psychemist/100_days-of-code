@@ -25,14 +25,4 @@ Welcome to the Rock Paper Scissors Game repository! This simple Python script al
     Type 0 for Rock, 1 for Paper, or 2 for Scissors:
     ```
 
-The computer will randomly choose its move, and the result of the game will be displayed:
-
-```bash
-You chose:
-[Your hand]
-
-Computer chose:
-[Computer's hand]
-
-Result: [Game result]
-```
+    The computer will randomly choose its move, and the result of the game will be displayed.
